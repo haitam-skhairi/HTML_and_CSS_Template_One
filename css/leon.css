@@ -4,13 +4,13 @@
     --secondary-color: #2c4755;
     --section-background: #F6F6F6;
     --section-padding: 60px;
-    --main-transition: 3s
+    --main-transition: .3s
 }
 /* End Variables */
 
 /* Start component */
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth
 }
 .special-heading {
     margin: 0;
