@@ -354,6 +354,12 @@ body {
     border-bottom: 85px solid var(--main-color);
     z-index: -1
 }
+@media (max-width: 767px) {
+    .about .about-image::after,
+    .about .about-image::before {
+        display: none
+    }
+}
 .about .about-content p:first-child {
     font-weight: bold;
     color: #333333;
