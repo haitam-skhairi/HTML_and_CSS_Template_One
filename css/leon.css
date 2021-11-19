@@ -9,6 +9,9 @@
 /* End Variables */
 
 /* Start component */
+html {
+    scroll-behavior: smooth;
+}
 .special-heading {
     margin: 0;
     font-size: 96px;
