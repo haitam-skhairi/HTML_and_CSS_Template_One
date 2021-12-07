@@ -1,5 +1,5 @@
 # Leon | Template One Html & Css
-This is a Template created with CSS and HTML <br>
+This Template created with CSS and HTML<br>
 CSS : Grid - Flex - Media Query - Variables - Responsive Design ...
 ## Demo
 https://haitam-skhairi.github.io/Leon_Template_One_HTML_CSS/
