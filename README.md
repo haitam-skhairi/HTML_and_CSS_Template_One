@@ -1,5 +1,6 @@
 # Leon | Template_One_Html_Css
-This is Template_One with CSS and HTML
+This is Template_One with CSS and HTML <br>
+CSS : Grid - Flex - Media Query - Variables - Responsive Design ...
 ## Demo
 https://haitam-skhairi.github.io/Leon_Template_One_HTML_CSS/
 ### Source
