@@ -8,10 +8,39 @@
 }
 /* End Variables */
 
-/* Start component */
+/* Start Window Style */
 html {
     scroll-behavior: smooth
 }
+.scrolling-button {
+    width: 30px;
+    height: 30px;
+    background-color: var(--secondary-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    position: fixed;
+    z-index: 2;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    display: none;
+}
+.scrolling-button::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -20%) rotateZ(-45deg);
+    width: 10px;
+    height: 10px;
+    border: 3px solid white;
+    border-bottom-color: transparent;
+    border-left-color: transparent
+}
+/* End Window Style */
+
+/* Start component */
 .special-heading {
     margin: 0;
     font-size: 96px;
