@@ -1,10 +1,10 @@
-# Leon | Template One Html & Css
+# Leon | Template One Html Css and js
 This Template created with CSS and HTML<br>
 CSS : Grid - Flex - Media Query - Variables - Responsive Design ...
 ## Demo
 https://haitam-skhairi.github.io/leon-web-template/
 ### Source
-I do this Template just with Html and CSS at this moment, but I can develop him in the future with JavaScript 
+I do this Template just with Html, CSS and Js.
 This Design from the website:<br>
 https://www.graphberry.com/
 #### Link of Design:
