@@ -2,7 +2,7 @@
 This Template created with CSS and HTML<br>
 CSS : Grid - Flex - Media Query - Variables - Responsive Design ...
 ## Demo
-https://haitam-skhairi.github.io/Leon_Template_One_HTML_CSS/
+https://haitam-skhairi.github.io/leon-template/
 ### Source
 I do this Template just with Html and CSS at this moment, but I can develop him in the future with JavaScript 
 This Design from the website:<br>
