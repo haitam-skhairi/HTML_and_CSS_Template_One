@@ -433,6 +433,8 @@ body {
 }
 .contact .info .link {
     display: block;
+    width: fit-content;
+    margin: auto;
     text-decoration: none;
     font-size: 35px;
     font-weight: 800;
@@ -460,7 +462,8 @@ body {
     text-align: center;
     background-color: var(--secondary-color)
 }
-.footer span {
+.footer a {
+    text-decoration: none;
     font-weight: bold;
     color: var(--main-color)
 }
